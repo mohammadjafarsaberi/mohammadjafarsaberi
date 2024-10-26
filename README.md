@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About myself
 
-- 🔭 I have graduated in Software Engineering from Kabul University. 😄  
+- 🔭 I have graduated in Software Engineering from Kabul University.  
 - 🌍  I am currently based in Kabul, Afghanistan but I am eager to work in other parts of the world. 🌎
 - 🤝  I am looking to collaborate with people around the world on different projects. 🌐
 - 📫 How to reach me **mohammadjafarsaberi11@gmail.com**
