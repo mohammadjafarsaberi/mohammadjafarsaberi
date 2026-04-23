@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-jafar-saberi-518678248/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"  width="40" /></a>
   <a href="https://www.facebook.com/mjafar.saberi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"  width="40" /></a>
-  <a href="https://x.com/M_Jafar_Saberi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" width="40" /></a>
+<a href="https://x.com/M_Jafar_Saberi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" width="40" /></a>
   <a href="https://instagram.com/mjafar_saberi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mjafar_saberi"  width="40" /></a>
 </p>
 
